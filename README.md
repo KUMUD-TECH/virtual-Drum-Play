@@ -15,10 +15,13 @@ Clone the repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/your-username/virtual-drum-play.git
+```
 
+### 3. **Install Dependencies**
+ Open the project folder and ensure you have an HTML, CSS, and JavaScript environment ready (no dependencies are required for this project).
 
-Install Dependencies: Open the project folder and ensure you have an HTML, CSS, and JavaScript environment ready (no dependencies are required for this project).
+### 4. **Run Locally**
+ Open the index.html file in your browser to start playing the drum kit.
 
-Run Locally: Open the index.html file in your browser to start playing the drum kit.
-
-Play & Enjoy: Click on the drum buttons or press the corresponding keys (w, a, s, d, j, k, l, m) to play sounds!
+### 5. **Play & Enjoy**
+ Click on the drum buttons or press the corresponding keys (w, a, s, d, j, k, l, m) to play sounds!
