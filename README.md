@@ -5,12 +5,17 @@ Virtual Drum Play is an interactive drum kit simulator that lets users play by c
 
 
 
-How to Use Virtual Drum Play:
-Fork the Repository: Click on the "Fork" button at the top right to create a copy of this repository in your own GitHub account.
+# How to Use Virtual Drum Play
 
-Clone the Repository: Clone the repository to your local machine using:
-Copy code
+### 1. **Fork the Repository**
+Click on the **"Fork"** button at the top right to create a copy of this repository in your own GitHub account.
+
+### 2. **Clone the Repository**
+Clone the repository to your local machine using the following command:
+
+```bash
 git clone https://github.com/your-username/virtual-drum-play.git
+
 
 Install Dependencies: Open the project folder and ensure you have an HTML, CSS, and JavaScript environment ready (no dependencies are required for this project).
 
